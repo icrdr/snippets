@@ -21,9 +21,9 @@ trusted-host=mirrors.aliyun.com
 - check python path `which python` `which python3`
 
 ### Active env
-`workon [name]`
+`workon [name]` (not working on Powershell)
 ### Quit env
-`deactivate`
+`deactivate` (not working on Powershell)
 
 ### Generate requirements.txt
 `pip freeze > requirements.txt`
